@@ -46,7 +46,7 @@ Application 1: <br> Suppose we want to add 35g of flour to bake a cake and we ha
 <br><br>
 Case 2:
 <br><br>
-Application 2: <br> Suppose we have to travel 100kms to reach a city, we have many options to go with like Car,Bike,Train,Aeroplane and many more. The same logic could be used to solve this problem.<br>
+Application 2: <br> Suppose we have to travel 100kms from cities to cities,so each city will have different distance so we can use this approch to obtain the total kms but travelling different cities .<br>
     
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/91418428/203609573-fc29161b-1eb6-42e7-a504-ce6bd9879291.png)
