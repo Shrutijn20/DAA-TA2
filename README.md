@@ -13,9 +13,8 @@ Section: A <br>
   
   <Approach:>
  
-We make a boolean dp[][] and fill it in a top-down manner.<br>
-The value of dp[i][j] will be true if there exists a subset of dp[0..i] with a sum equal to j, otherwise false.<br>
-Finally, we return dp[n][sum]<br>
+In this approach, we will make a 2D array of size equal to (size of array + 1) * (target sum + 1) of boolean type. The state dp[i][j] will be true if there is a subset of elements from A[0….i] with a sum value equal to j.
+<br>
 
 <hr>    
 
@@ -29,6 +28,8 @@ dp[i][j] = dp[i-1][j] or dp[i-1][j-A[i-1]]<br>
 <hr>
  
 Time Comlexity: O(n) 
+<hr>
+   It is an NP-hard problem
 
 <hr>
   
