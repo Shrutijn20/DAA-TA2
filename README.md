@@ -43,9 +43,8 @@ So we want to buy 35g of flour to bake a cake it can be done by measuring cups o
 So in the subset problem 35 will be given as the sum required and the array will have the size of the measuring cups. The result will be the cups used to get the amount required.
 
     
+![Screenshot (39)](https://user-images.githubusercontent.com/91418428/203837136-b63764d3-b75a-4b5f-b763-4e53c4339be7.png)
 
-
-![Screenshot (29)](https://user-images.githubusercontent.com/91418428/203607571-75d9fd8c-6459-4dd3-9f7a-ae1ae8785133.png)
     
 <br><br>
 Case 2:
@@ -55,8 +54,9 @@ Traviling a distance from one city to another by using distances of the cities c
 Suppose we have to travel 300kms from Nagpur to Hyderabad,so there are many different ways to reach the destination.Given the array of distance between different cities [20,50,100,150,200] so one can reach the destination by many ways like by selecting [50,100,150] or [100,200] and many more ways.
 <br>
     
+![Screenshot (40)](https://user-images.githubusercontent.com/91418428/203837784-e0bcd57f-5f64-4d7a-b5ef-a2a91dfa83c3.png)
 
-![Screenshot (34)](https://user-images.githubusercontent.com/91418428/203609573-fc29161b-1eb6-42e7-a504-ce6bd9879291.png)
+
     
  <br><br>
 Case 3:
