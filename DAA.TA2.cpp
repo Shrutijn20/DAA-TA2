@@ -74,7 +74,7 @@ void printAllSubsets(int arr[], int n, int sum)
   
 int main() 
 { 
-    int arr[] = {1,2,3,4,5}; 
+    int arr[] = {5,10,15}; 
     int n = sizeof(arr)/sizeof(arr[0]); 
     int sum = 20; 
     
