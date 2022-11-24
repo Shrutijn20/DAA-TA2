@@ -38,8 +38,8 @@ Application and it's test cases:
 Case 1:
 <br><br>
 Application 1: <br> 
-Measuring flour by using measuring cup of different quantity.
-Suppose we want to take 35g of flour to bake a cake and we have measuring cups of different quantity like 5g,10g,15g and 20g. So here we select different cups to add exactly the amount of sum we need.So it can be done in many ways like [5,10,20],[5,5,10,15] and many more ways.<br>
+    Problem: Need to buy 35g of flour but don't have exact quantity measuring tool.
+So we want to buy 35g of flour to bake a cake it can be done by measuring cups of different size like 5g,10g,15g and 20g. So here we select different cups to add exactly the amount we need.So it can be done in many ways like [5,10,20],[15,20] and many more ways.<br>
 So in the subset problem 35 will be given as the sum required and the array will have the size of the measuring cups. The result will be the cups used to get the amount required.
 
     
@@ -50,7 +50,7 @@ So in the subset problem 35 will be given as the sum required and the array will
 <br><br>
 Case 2:
 <br><br>
-Application 2: <br> 
+Application 2: <br>
 Traviling a distance from one city to another by using distances of the cities coming in between them. 
 Suppose we have to travel 300kms from Nagpur to Hyderabad,so there are many different ways to reach the destination.Given the array of distance between different cities [20,50,100,150,200] so one can reach the destination by many ways like by selecting [50,100,150] or [100,200] and many more ways.
 <br>
